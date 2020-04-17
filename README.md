@@ -7,5 +7,5 @@ The relevant code is in [index.tsx](./index.tsx)
 To test and see errors run:
 
 ```shell
-npm eslint index.tsx
+npx eslint index.tsx
 ```
